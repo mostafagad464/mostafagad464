@@ -13,8 +13,6 @@
 <a href="https://github.com/mostafagad464?tab=followers"><img src="https://img.shields.io/github/followers/mostafagad464?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
-<br>
-
 
 
 - 🌱 I’m currently **Full-stack Developer**.
@@ -76,15 +74,15 @@
 
 </div>
 
-<br>
 
 <h3>Statistical Data :-</h3>
 
+<br>
 <p align="center"><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafagad464&show_icons=false&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="mostafagad464" 
-    bg_color=#808080/></p>
-
+    bg_color=#808080/>
+</p>
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mostafagad464&show_icons=true&theme=midnight-purple" align="center">
@@ -92,7 +90,7 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafagad464&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mostafagad464" /></p>
       
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafagad464" alt="mostafagad464" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafagad464" alt="mostafagad464" /></a> </p>
 
 <h3 align="left">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/mostafagad464"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mostafagad464" /></a></p><br><br>
