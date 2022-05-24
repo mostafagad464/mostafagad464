@@ -20,9 +20,15 @@
 - 📫	Education: 
     - Software Development 9-months profissional Diploma, Information Technology Institute ITI, 
       Ministry of Communications Information Technology (MCIT), Egypt.  
-      Software Devlopment
+      Software Devlopment.
     - Bachelor’s Degree in Computer Science.
       Faculty Of Science, Zagazig University. (2017-2021)
+
+      Graduation Projects:
+        - Simple pendulum using Arduino (IoT) (Excellent grade).
+        - Online website for a commercial mall. (Excellent grade).
+
+      Overall grade: very good and ranked 1st in the department.
 
 - 💬 Ask me about **ASP.NET Core, Angular SQL Server and relevant.**
 - 📫 How to reach me **mostafagad464@gmail.com**
@@ -93,4 +99,4 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafagad464" alt="mostafagad464" /></a> </p>
 
 <h3 align="left">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/mostafagad464"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mostafagad464" /></a></p><br><br>
+<p align="center"><a  href="https://www.buymeacoffee.com/mostafagad464"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mostafagad464" /></a></p><br><br>
