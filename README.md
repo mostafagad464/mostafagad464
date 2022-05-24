@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mostafa</h1>
-<h3 align="center">Native Mobile Application Developer.</h3>
+<h3 align="center">Software Developer.</h3>
 
 
 <br>
@@ -17,18 +17,17 @@
 
 
 
-- 🌱 I’m currently learning  Mobile Development (Android and IOS).
-
-- 📫 How to reach me **mostafagad464@gmail.com**
-
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 🌱 I’m currently **Full-stack Developer**.
 
 - 📫	Education: 
-    - 9-months Diploma, Information Technology Institute ITI, 
-      Ministry of Communications Information Technology MCIT  
-Native Mobile Application Development 
-    - Bachelor’s Degree in Computers and Information (Computer science)
-Faculty Of Computers and Information, Benha University. (2014-2018)
+    - Software Development 9-months profissional Diploma, Information Technology Institute ITI, 
+      Ministry of Communications Information Technology (MCIT), Egypt.  
+      Software Devlopment
+    - Bachelor’s Degree in Computer Science.
+      Faculty Of Science, Zagazig University. (2017-2021)
+
+- 💬 Ask me about **ASP.NET Core, Angular SQL Server and relevant.**
+- 📫 How to reach me **mostafagad464@gmail.com**
 
 
 
@@ -36,20 +35,13 @@ Faculty Of Computers and Information, Benha University. (2014-2018)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mostafagad464/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="karam" height="30" width="40" /></a>
-  <a href="https://fb.com/karamElsaity" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Karam" height="30" width="40" /></a>
-  <a href="https://instagram.com/Karam.0_0" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Karam.0_0" height="30" width="40" /></a>
-  <!-- <a href="https://www.hackerrank.com/karamzeroo" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="karamzeroo" height="30" width="40" /></a> -->
- </a>
+<a href="https://twitter.com/mostafagad464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mostafagad464" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mostafagad464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafagad464" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9312637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9312637" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user//user/mostafagad464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="/user/mostafagad464" height="30" width="40" /></a>
+<p align="left"> <a href="https://twitter.com/mostafagad464" target="blank"><img src="https://img.shields.io/twitter/follow/mostafagad464?logo=twitter&style=for-the-badge" alt="mostafagad464" /></a> </p>
 </p>
+
 <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
@@ -100,3 +92,7 @@ Faculty Of Computers and Information, Benha University. (2014-2018)
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafagad464&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mostafagad464" /></p>
       
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafagad464" alt="mostafagad464" /></a> </p>
+
+<h3 align="left">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/mostafagad464"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mostafagad464" /></a></p><br><br>
