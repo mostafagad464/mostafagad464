@@ -24,7 +24,7 @@
     - Software Development 9-months profissional Diploma, Information Technology Institute ITI, 
       Ministry of Communications Information Technology (MCIT), Egypt.  
     - Bachelor’s Degree in Computer Science.
-      Faculty Of Science, Zagazig University. (2017-2021)
+      Faculty of Science, Zagazig University. (2017-2021)
 
       Graduation Projects:
         - Simple pendulum using Arduino (IoT) (Excellent grade).
